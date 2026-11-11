@@ -1,0 +1,32 @@
+{
+  "status": "HOLD",
+  "expected_images": 110,
+  "actual_jpeg_count": 20,
+  "valid_manifest_entries": 20,
+  "face_detection_checked": 0,
+  "embeddings_checked": 0,
+  "within_identity_cosine": null,
+  "between_identity_cosine": null,
+  "highest_between_identity_pairs": [],
+  "collision_interpretation": "Review high-similarity pairs after independently calibrating a threshold; top pairs alone are not confirmed collisions.",
+  "manual_review": "NOT COMPLETED",
+  "license_review": "NOT COMPLETED",
+  "adapter": null,
+  "errors": [
+    "P002: missing ['02_front_smile.jpg', '03_left_20.jpg', '04_right_20.jpg', '05_look_up.jpg', '06_look_down.jpg', '07_glasses.jpg', '08_low_light.jpg', '09_side_light.jpg', '10_background.jpg', '11_distance.jpg'], unexpected []",
+    "P003: missing ['02_front_smile.jpg', '03_left_20.jpg', '04_right_20.jpg', '05_look_up.jpg', '06_look_down.jpg', '07_glasses.jpg', '08_low_light.jpg', '09_side_light.jpg', '10_background.jpg', '11_distance.jpg'], unexpected []",
+    "P004: missing ['02_front_smile.jpg', '03_left_20.jpg', '04_right_20.jpg', '05_look_up.jpg', '06_look_down.jpg', '07_glasses.jpg', '08_low_light.jpg', '09_side_light.jpg', '10_background.jpg', '11_distance.jpg'], unexpected []",
+    "P005: missing ['02_front_smile.jpg', '03_left_20.jpg', '04_right_20.jpg', '05_look_up.jpg', '06_look_down.jpg', '07_glasses.jpg', '08_low_light.jpg', '09_side_light.jpg', '10_background.jpg', '11_distance.jpg'], unexpected []",
+    "P006: missing ['02_front_smile.jpg', '03_left_20.jpg', '04_right_20.jpg', '05_look_up.jpg', '06_look_down.jpg', '07_glasses.jpg', '08_low_light.jpg', '09_side_light.jpg', '10_background.jpg', '11_distance.jpg'], unexpected []",
+    "P007: missing ['02_front_smile.jpg', '03_left_20.jpg', '04_right_20.jpg', '05_look_up.jpg', '06_look_down.jpg', '07_glasses.jpg', '08_low_light.jpg', '09_side_light.jpg', '10_background.jpg', '11_distance.jpg'], unexpected []",
+    "P008: missing ['02_front_smile.jpg', '03_left_20.jpg', '04_right_20.jpg', '05_look_up.jpg', '06_look_down.jpg', '07_glasses.jpg', '08_low_light.jpg', '09_side_light.jpg', '10_background.jpg', '11_distance.jpg'], unexpected []",
+    "P009: missing ['02_front_smile.jpg', '03_left_20.jpg', '04_right_20.jpg', '05_look_up.jpg', '06_look_down.jpg', '07_glasses.jpg', '08_low_light.jpg', '09_side_light.jpg', '10_background.jpg', '11_distance.jpg'], unexpected []",
+    "P010: missing ['02_front_smile.jpg', '03_left_20.jpg', '04_right_20.jpg', '05_look_up.jpg', '06_look_down.jpg', '07_glasses.jpg', '08_low_light.jpg', '09_side_light.jpg', '10_background.jpg', '11_distance.jpg'], unexpected []",
+    "Expected 110 JPEGs; found 20, readable expected files 20"
+  ],
+  "missing_checks": [
+    "actual face detection and recognition embedding validation",
+    "manual identity consistency review",
+    "applicable provider terms and redistribution approval"
+  ]
+}

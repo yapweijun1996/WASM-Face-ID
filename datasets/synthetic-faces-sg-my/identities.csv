@@ -1,0 +1,11 @@
+identity_id,name,gender,nationality,prompted_background,image_path,synthetic
+P011,Tan Mei Lin,Female,Singapore,Chinese,images/P011.jpg,True
+P012,Amir Zulkifli,Male,Malaysia,Malay,images/P012.jpg,True
+P013,Anjali Menon,Female,Singapore,Indian,images/P013.jpg,True
+P014,Koh Jian Wei,Male,Singapore,Chinese,images/P014.jpg,True
+P015,Lim Hui Min,Female,Malaysia,Chinese,images/P015.jpg,True
+P016,Chan Wei Ming,Male,Malaysia,Chinese,images/P016.jpg,True
+P017,Nadia Ismail,Female,Singapore,Malay,images/P017.jpg,True
+P018,Farid Hakim,Male,Malaysia,Malay,images/P018.jpg,True
+P019,Vikram Iyer,Male,Singapore,Indian,images/P019.jpg,True
+P020,Kavitha Raman,Female,Malaysia,Indian,images/P020.jpg,True

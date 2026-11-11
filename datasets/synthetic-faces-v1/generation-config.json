@@ -1,0 +1,71 @@
+{
+  "status": "HOLD",
+  "generation_provider": "OpenAI built-in image generation",
+  "generation_model": null,
+  "generation_seed": null,
+  "image_size": [
+    512,
+    512
+  ],
+  "conditions": [
+    {
+      "filename": "01_front_neutral.jpg",
+      "description": "Front-facing, neutral expression, soft studio lighting",
+      "dataset_split": "enrollment"
+    },
+    {
+      "filename": "02_front_smile.jpg",
+      "description": "Front-facing, natural smile",
+      "dataset_split": "enrollment"
+    },
+    {
+      "filename": "03_left_20.jpg",
+      "description": "Head turned approximately 20 degrees left",
+      "dataset_split": "enrollment"
+    },
+    {
+      "filename": "04_right_20.jpg",
+      "description": "Head turned approximately 20 degrees right",
+      "dataset_split": "recognition_test"
+    },
+    {
+      "filename": "05_look_up.jpg",
+      "description": "Head tilted slightly upward",
+      "dataset_split": "recognition_test"
+    },
+    {
+      "filename": "06_look_down.jpg",
+      "description": "Head tilted slightly downward",
+      "dataset_split": "recognition_test"
+    },
+    {
+      "filename": "07_glasses.jpg",
+      "description": "Wearing ordinary eyeglasses",
+      "dataset_split": "recognition_test"
+    },
+    {
+      "filename": "08_low_light.jpg",
+      "description": "Dim indoor lighting, face still visible",
+      "dataset_split": "recognition_test"
+    },
+    {
+      "filename": "09_side_light.jpg",
+      "description": "Stronger side lighting",
+      "dataset_split": "recognition_test"
+    },
+    {
+      "filename": "10_background.jpg",
+      "description": "Different background and clothing",
+      "dataset_split": "recognition_test"
+    },
+    {
+      "filename": "11_distance.jpg",
+      "description": "Camera farther away, face still detectable",
+      "dataset_split": "recognition_test"
+    }
+  ],
+  "master_prompt": "Photorealistic professional head-and-shoulders portrait of one fictional adult aged 25-45, neutral front-facing expression, soft studio lighting, centered, full head visible with hair, ears where possible, and chin, generous margins, realistic skin, no text, logos, watermarks or overlays. Not a real person or public figure.",
+  "variant_prompt": "Use the supplied master as the identity reference. Preserve facial geometry, eyes, nose, mouth, jaw, skin and apparent age. Change only the specified condition; retain a single centered, clearly visible face with full head and margins. Photorealistic, no text, logo, watermark or overlay.",
+  "license": null,
+  "commercial_usage_status": "unverified; do not redistribute pending applicable terms and review"
+}

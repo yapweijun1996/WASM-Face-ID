@@ -1,0 +1,112 @@
+[
+  {
+    "identity_id": "P001",
+    "reference": "references/P001_Adrian_Tan.png",
+    "benchmark_image": "identities/P001_Adrian_Tan/01_front_neutral.jpg",
+    "relationship": "The enrollment JPEG is resized and padded from the reference PNG; they are the same generated photograph.",
+    "source_sha256": "99e1a046fc781b5af98d68b0ab2ac264e44663399bc4194a55bf3f5df1b3818b",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null
+  },
+  {
+    "identity_id": "P002",
+    "reference": "references/P002_Melissa_Lim.png",
+    "benchmark_image": "identities/P002_Melissa_Lim/01_front_neutral.jpg",
+    "relationship": "The enrollment JPEG is resized and padded from the reference PNG; they are the same generated photograph.",
+    "source_sha256": "588d31509789cd4163ffa68ac5a42f5d5ca873aabbd6bab7ecf03a4a594f3ef3",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null
+  },
+  {
+    "identity_id": "P003",
+    "reference": "references/P003_Daniel_Wong.png",
+    "benchmark_image": "identities/P003_Daniel_Wong/01_front_neutral.jpg",
+    "relationship": "The enrollment JPEG is resized and padded from the reference PNG; they are the same generated photograph.",
+    "source_sha256": "770b8388c5ab87d253a1280b8e9720be55338673318c38d10264ce5b46334f03",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null
+  },
+  {
+    "identity_id": "P004",
+    "reference": "references/P004_Priya_Nair.png",
+    "benchmark_image": "identities/P004_Priya_Nair/01_front_neutral.jpg",
+    "relationship": "The enrollment JPEG is resized and padded from the reference PNG; they are the same generated photograph.",
+    "source_sha256": "9d7c20498e75f462f32f453d8198413e5c342fa0dd15a92c420f78fa78e9394e",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null
+  },
+  {
+    "identity_id": "P005",
+    "reference": "references/P005_Arjun_Kumar.png",
+    "benchmark_image": "identities/P005_Arjun_Kumar/01_front_neutral.jpg",
+    "relationship": "The enrollment JPEG is resized and padded from the reference PNG; they are the same generated photograph.",
+    "source_sha256": "5dc7487526125e135957aa5dff08cd94110cf28dea0d3a28e7d39d89203d05c4",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null
+  },
+  {
+    "identity_id": "P006",
+    "reference": "references/P006_Nur_Aisyah.png",
+    "benchmark_image": "identities/P006_Nur_Aisyah/01_front_neutral.jpg",
+    "relationship": "The enrollment JPEG is resized and padded from the reference PNG; they are the same generated photograph.",
+    "source_sha256": "6bdbc14f7b927556a4118b3ce97f6033a6b44caf38d5e425dfa7b3f29b1b0a5c",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null
+  },
+  {
+    "identity_id": "P007",
+    "reference": "references/P007_Hafiz_Rahman.png",
+    "benchmark_image": "identities/P007_Hafiz_Rahman/01_front_neutral.jpg",
+    "relationship": "The enrollment JPEG is resized and padded from the reference PNG; they are the same generated photograph.",
+    "source_sha256": "b044bedb145995b4d7951243b71307ba149ca2dfa1376e2238aa61b1921f96a0",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null
+  },
+  {
+    "identity_id": "P008",
+    "reference": "references/P008_Sophia_Chen.png",
+    "benchmark_image": "identities/P008_Sophia_Chen/01_front_neutral.jpg",
+    "relationship": "The enrollment JPEG is resized and padded from the reference PNG; they are the same generated photograph.",
+    "source_sha256": "9129210435fd935db63b654eeecd74812f31460de7e10bc9e02b6c175e54b129",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null
+  },
+  {
+    "identity_id": "P009",
+    "reference": "references/P009_Marcus_Lee.png",
+    "benchmark_image": "identities/P009_Marcus_Lee/01_front_neutral.jpg",
+    "relationship": "The enrollment JPEG is resized and padded from the reference PNG; they are the same generated photograph.",
+    "source_sha256": "04b41dbf4f795c732dc65b6ad90b15e91ccb643ebef7fd55f914b78fcb8bcbf1",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null
+  },
+  {
+    "identity_id": "P010",
+    "reference": "references/P010_Olivia_Roberts.png",
+    "benchmark_image": "identities/P010_Olivia_Roberts/01_front_neutral.jpg",
+    "relationship": "The enrollment JPEG is resized and padded from the reference PNG; they are the same generated photograph.",
+    "source_sha256": "d346d503bc2f055e2f79e472e5d2013ae5d0231a85748acab3ba15bc6cdd412a",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null
+  }
+]

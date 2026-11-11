@@ -1,0 +1,102 @@
+[
+  {
+    "identity_id": "P001",
+    "name": "Adrian Tan",
+    "gender": "Male",
+    "fictional": true,
+    "age_range": "25-45",
+    "intended_visual_profile": "short black hair, subtle stubble, small cheek moles",
+    "nationality": "Singapore",
+    "nationality_note": "Fictional assignment for demo data; not inferred from image."
+  },
+  {
+    "identity_id": "P002",
+    "name": "Melissa Lim",
+    "gender": "Female",
+    "fictional": true,
+    "age_range": "25-45",
+    "intended_visual_profile": "shoulder-length dark hair, oval face, softly arched eyebrows",
+    "nationality": "Malaysia",
+    "nationality_note": "Fictional assignment for demo data; not inferred from image."
+  },
+  {
+    "identity_id": "P003",
+    "name": "Daniel Wong",
+    "gender": "Male",
+    "fictional": true,
+    "age_range": "25-45",
+    "intended_visual_profile": "short dark hair, broad forehead, square jaw",
+    "nationality": "Singapore",
+    "nationality_note": "Fictional assignment for demo data; not inferred from image."
+  },
+  {
+    "identity_id": "P004",
+    "name": "Priya Nair",
+    "gender": "Female",
+    "fictional": true,
+    "age_range": "25-45",
+    "intended_visual_profile": "dark wavy hair, oval face, gentle rounded jaw",
+    "nationality": "Malaysia",
+    "nationality_note": "Fictional assignment for demo data; not inferred from image."
+  },
+  {
+    "identity_id": "P005",
+    "name": "Arjun Kumar",
+    "gender": "Male",
+    "fictional": true,
+    "age_range": "25-45",
+    "intended_visual_profile": "short dark hair, narrow face, prominent eyebrows",
+    "nationality": "Singapore",
+    "nationality_note": "Fictional assignment for demo data; not inferred from image."
+  },
+  {
+    "identity_id": "P006",
+    "name": "Nur Aisyah",
+    "gender": "Female",
+    "fictional": true,
+    "age_range": "25-45",
+    "intended_visual_profile": "dark straight hair, rounded face, subtle cheek dimples",
+    "nationality": "Malaysia",
+    "nationality_note": "Fictional assignment for demo data; not inferred from image."
+  },
+  {
+    "identity_id": "P007",
+    "name": "Hafiz Rahman",
+    "gender": "Male",
+    "fictional": true,
+    "age_range": "25-45",
+    "intended_visual_profile": "short dark hair, angular jaw, close-cropped beard",
+    "nationality": "Singapore",
+    "nationality_note": "Fictional assignment for demo data; not inferred from image."
+  },
+  {
+    "identity_id": "P008",
+    "name": "Sophia Chen",
+    "gender": "Female",
+    "fictional": true,
+    "age_range": "25-45",
+    "intended_visual_profile": "dark bob haircut, softly angular face, straight eyebrows",
+    "nationality": "Malaysia",
+    "nationality_note": "Fictional assignment for demo data; not inferred from image."
+  },
+  {
+    "identity_id": "P009",
+    "name": "Marcus Lee",
+    "gender": "Male",
+    "fictional": true,
+    "age_range": "25-45",
+    "intended_visual_profile": "short dark hair, rounded jaw, small freckle on cheek",
+    "nationality": "Singapore",
+    "nationality_note": "Fictional assignment for demo data; not inferred from image."
+  },
+  {
+    "identity_id": "P010",
+    "name": "Olivia Roberts",
+    "gender": "Female",
+    "fictional": true,
+    "age_range": "25-45",
+    "intended_visual_profile": "wavy brown hair, long oval face, light freckles",
+    "nationality": "Malaysia",
+    "nationality_note": "Fictional assignment for demo data; not inferred from image."
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "path": "identities/P001_Adrian_Tan/02_front_smile.jpg",
+    "prompted_condition": "Front-facing, natural smile",
+    "reference": "references/P001_Adrian_Tan.png",
+    "source_sha256": "690404edd7885f339a606534376963caae3f7da0b73e5de356566fbabf1c26ef",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "pending"
+  },
+  {
+    "path": "identities/P001_Adrian_Tan/03_left_20.jpg",
+    "prompted_condition": "Head turned approximately 20 degrees left",
+    "reference": "references/P001_Adrian_Tan.png",
+    "source_sha256": "374fa7c6ff5fc115018fadcdc9a09cee0b3fbed83c229d0007dcb57f97b88093",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "pending"
+  },
+  {
+    "path": "identities/P001_Adrian_Tan/04_right_20.jpg",
+    "prompted_condition": "Head turned approximately 20 degrees right",
+    "reference": "references/P001_Adrian_Tan.png",
+    "source_sha256": "87711d91105a92ef0621f5d4e718f49338c5cf4afcf570cc2e1f013c5aea0ab5",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "pending"
+  },
+  {
+    "path": "identities/P001_Adrian_Tan/05_look_up.jpg",
+    "prompted_condition": "Head tilted slightly upward",
+    "reference": "references/P001_Adrian_Tan.png",
+    "source_sha256": "9951fa8e8ab6e7fe67ccd054104b8d045a7fed50636ae066a99500a674b21266",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "pending"
+  },
+  {
+    "path": "identities/P001_Adrian_Tan/06_look_down.jpg",
+    "prompted_condition": "Head tilted slightly downward",
+    "reference": "references/P001_Adrian_Tan.png",
+    "source_sha256": "9761b28b2f8cd62cdb4e296d5e57dbe743a295f1b0e6e2ec988017d05f81f3d2",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "pending"
+  },
+  {
+    "path": "identities/P001_Adrian_Tan/07_glasses.jpg",
+    "prompted_condition": "Wearing ordinary eyeglasses",
+    "reference": "references/P001_Adrian_Tan.png",
+    "source_sha256": "0eb1c1a9e519a6e76b720b17baceed3d23bd3d377ac3f8f85a8cc7cf1858f717",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "pending"
+  },
+  {
+    "path": "identities/P001_Adrian_Tan/08_low_light.jpg",
+    "prompted_condition": "Dim indoor lighting, face still visible",
+    "reference": "references/P001_Adrian_Tan.png",
+    "source_sha256": "5a71f07399f252b88e8731ada2caf77e1f87eca441482ade14155ce8823950b0",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "pending"
+  },
+  {
+    "path": "identities/P001_Adrian_Tan/09_side_light.jpg",
+    "prompted_condition": "Stronger side lighting",
+    "reference": "references/P001_Adrian_Tan.png",
+    "source_sha256": "5ba54701b5a798283393686db5d1c550c8502939c63fe18db584c20bf0a811b4",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "pending"
+  },
+  {
+    "path": "identities/P001_Adrian_Tan/10_background.jpg",
+    "prompted_condition": "Different background and clothing",
+    "reference": "references/P001_Adrian_Tan.png",
+    "source_sha256": "32f05b6026a0ac6c8934cb5002f26ed1bd11c271b6bfdd0a09cc2471c658516f",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "pending"
+  },
+  {
+    "path": "identities/P001_Adrian_Tan/11_distance.jpg",
+    "prompted_condition": "Camera farther away, face still detectable",
+    "reference": "references/P001_Adrian_Tan.png",
+    "source_sha256": "e5783d29aaa596e26c80c12d154272dca56db73e991ad666dcb407da48134cb4",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "pending"
+  }
+]
