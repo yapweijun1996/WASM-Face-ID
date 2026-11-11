@@ -1,0 +1,112 @@
+[
+  {
+    "path": "identities/P006_Nur_Aisyah/02_front_smile.jpg",
+    "prompted_condition": "Front-facing, natural smile",
+    "reference": "references/P006_Nur_Aisyah.png",
+    "source_sha256": "041aca01641fb3b4817814c84fb4e2d82d07d6be683e46a0e260c18f5bafaf39",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "pending"
+  },
+  {
+    "path": "identities/P006_Nur_Aisyah/03_left_20.jpg",
+    "prompted_condition": "Head turned approximately 20 degrees left",
+    "reference": "references/P006_Nur_Aisyah.png",
+    "source_sha256": "eaab21f66010cf9f3610192b53a27cd6e35ce67ce0ea3ca138a49342e63486d8",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "pending"
+  },
+  {
+    "path": "identities/P006_Nur_Aisyah/04_right_20.jpg",
+    "prompted_condition": "Head turned approximately 20 degrees right",
+    "reference": "references/P006_Nur_Aisyah.png",
+    "source_sha256": "fd1a20e210f92ba7557eca68d0a0190c7b793da98eaf2d71d735c72fb6e1c151",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "pending"
+  },
+  {
+    "path": "identities/P006_Nur_Aisyah/05_look_up.jpg",
+    "prompted_condition": "Head tilted slightly upward",
+    "reference": "references/P006_Nur_Aisyah.png",
+    "source_sha256": "a61e3cc08dac8e2dd4845a31a2b3a7773ad2c90543cc716d7619c75c29bee387",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "pending"
+  },
+  {
+    "path": "identities/P006_Nur_Aisyah/06_look_down.jpg",
+    "prompted_condition": "Head tilted slightly downward",
+    "reference": "references/P006_Nur_Aisyah.png",
+    "source_sha256": "1b99988c59e873563493c1b66318cfdff32217355aa178ad62eb2fdf953ad29c",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "pending"
+  },
+  {
+    "path": "identities/P006_Nur_Aisyah/07_glasses.jpg",
+    "prompted_condition": "Wearing ordinary eyeglasses",
+    "reference": "references/P006_Nur_Aisyah.png",
+    "source_sha256": "c78aaddf507f5b6ebeeb7cd858483fdc77268d094dc76cde8a3f82ce2cf5c818",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "pending"
+  },
+  {
+    "path": "identities/P006_Nur_Aisyah/08_low_light.jpg",
+    "prompted_condition": "Dim indoor lighting, face still visible",
+    "reference": "references/P006_Nur_Aisyah.png",
+    "source_sha256": "99e2e5d9936329724126772d952e91b748fc83d4251fb19a0047b4d1dfd309e7",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "pending"
+  },
+  {
+    "path": "identities/P006_Nur_Aisyah/09_side_light.jpg",
+    "prompted_condition": "Stronger side lighting",
+    "reference": "references/P006_Nur_Aisyah.png",
+    "source_sha256": "4a818d2576d23de8d3a7b6c66e32ef10095b4a0537cf78e8f0ae7e41f5f8baec",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "pending"
+  },
+  {
+    "path": "identities/P006_Nur_Aisyah/10_background.jpg",
+    "prompted_condition": "Different background and clothing",
+    "reference": "references/P006_Nur_Aisyah.png",
+    "source_sha256": "b7a19a0a17761c97c7c7aaafd74bba9a3ec01c94aa61ed2a936a0b7964320441",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "pending"
+  },
+  {
+    "path": "identities/P006_Nur_Aisyah/11_distance.jpg",
+    "prompted_condition": "slightly farther camera; clear face with full head",
+    "reference": "references/P006_Nur_Aisyah.png",
+    "source_sha256": "6a6ff6f156280b9dd97bd42e7858a00bf0b18638928c297dddf64e0cef7e7ee2",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "pending"
+  }
+]

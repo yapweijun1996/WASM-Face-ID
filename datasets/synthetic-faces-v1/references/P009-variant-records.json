@@ -1,0 +1,122 @@
+[
+  {
+    "path": "identities/P009_Marcus_Lee/02_front_smile.jpg",
+    "prompted_condition": "Front-facing, natural smile",
+    "reference": "references/P009_Marcus_Lee.png",
+    "source_sha256": "4f12772c3be5e8bb411ee7d9b55d79ff942f9604d660af5b1cff084015ca2b6f",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "reconstructed from SFace similarity and contact sheet; independent manual review pending",
+    "source_mapping": "reconstructed after image tool output exceeded transport limit"
+  },
+  {
+    "path": "identities/P009_Marcus_Lee/03_left_20.jpg",
+    "prompted_condition": "Head turned approximately 20 degrees left",
+    "reference": "references/P009_Marcus_Lee.png",
+    "source_sha256": "27ba94b1a1e4ac432c56ac4cbda77efedbf17773b6da5d8b2e9bfa85873369cb",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "reconstructed from SFace similarity and contact sheet; independent manual review pending",
+    "source_mapping": "reconstructed after image tool output exceeded transport limit"
+  },
+  {
+    "path": "identities/P009_Marcus_Lee/04_right_20.jpg",
+    "prompted_condition": "Head turned approximately 20 degrees right",
+    "reference": "references/P009_Marcus_Lee.png",
+    "source_sha256": "89c217403ae1b136333bb4e740fe558166236e7e38a9b1ee52c8a7403888f163",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "reconstructed from SFace similarity and contact sheet; independent manual review pending",
+    "source_mapping": "reconstructed after image tool output exceeded transport limit"
+  },
+  {
+    "path": "identities/P009_Marcus_Lee/05_look_up.jpg",
+    "prompted_condition": "Head tilted slightly upward",
+    "reference": "references/P009_Marcus_Lee.png",
+    "source_sha256": "7c2616f7cffd0fd97a8c43a1c4bc05d0963a46080cdd591d6b3670c15e798ca4",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "reconstructed from SFace similarity and contact sheet; independent manual review pending",
+    "source_mapping": "reconstructed after image tool output exceeded transport limit"
+  },
+  {
+    "path": "identities/P009_Marcus_Lee/06_look_down.jpg",
+    "prompted_condition": "Head tilted slightly downward",
+    "reference": "references/P009_Marcus_Lee.png",
+    "source_sha256": "a211d168fa2516136931044995adfd15459a824251e6722cc1b4a8fc0528da9a",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "reconstructed from SFace similarity and contact sheet; independent manual review pending",
+    "source_mapping": "reconstructed after image tool output exceeded transport limit"
+  },
+  {
+    "path": "identities/P009_Marcus_Lee/07_glasses.jpg",
+    "prompted_condition": "Wearing ordinary eyeglasses",
+    "reference": "references/P009_Marcus_Lee.png",
+    "source_sha256": "c26eb054fb7731cf242cc363a6e00debfe00be84dd53f15e42339f908acf049a",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "reconstructed from SFace similarity and contact sheet; independent manual review pending",
+    "source_mapping": "reconstructed after image tool output exceeded transport limit"
+  },
+  {
+    "path": "identities/P009_Marcus_Lee/08_low_light.jpg",
+    "prompted_condition": "Dim indoor lighting, face still visible",
+    "reference": "references/P009_Marcus_Lee.png",
+    "source_sha256": "bc84738f7cc7620facc616ace218e2657f586b62c191ca24010458eae93bf2c1",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "reconstructed from SFace similarity and contact sheet; independent manual review pending",
+    "source_mapping": "reconstructed after image tool output exceeded transport limit"
+  },
+  {
+    "path": "identities/P009_Marcus_Lee/09_side_light.jpg",
+    "prompted_condition": "Stronger side lighting",
+    "reference": "references/P009_Marcus_Lee.png",
+    "source_sha256": "d2216bb4b72d0b0ffae65253859a7ebc1783f3196a68663f94e847e1a6e67479",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "reconstructed from SFace similarity and contact sheet; independent manual review pending",
+    "source_mapping": "reconstructed after image tool output exceeded transport limit"
+  },
+  {
+    "path": "identities/P009_Marcus_Lee/10_background.jpg",
+    "prompted_condition": "Different background and clothing",
+    "reference": "references/P009_Marcus_Lee.png",
+    "source_sha256": "65df3b945b97d905020a8cd58b0d9f96850eb7dcd0b6a37af43668ec797b4af1",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "reconstructed from SFace similarity and contact sheet; independent manual review pending",
+    "source_mapping": "reconstructed after image tool output exceeded transport limit"
+  },
+  {
+    "path": "identities/P009_Marcus_Lee/11_distance.jpg",
+    "prompted_condition": "slightly farther camera, clear face with full head",
+    "reference": "references/P009_Marcus_Lee.png",
+    "source_sha256": "e908a8ed6b72aa3577c5654181f734bb58725f48de9e09af254fb818c7bad45a",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "reconstructed from SFace similarity and contact sheet; independent manual review pending",
+    "source_mapping": "direct model output"
+  }
+]

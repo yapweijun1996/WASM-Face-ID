@@ -1,0 +1,112 @@
+[
+  {
+    "path": "identities/P005_Arjun_Kumar/02_front_smile.jpg",
+    "prompted_condition": "Front-facing, natural smile",
+    "reference": "references/P005_Arjun_Kumar.png",
+    "source_sha256": "9e48c0f7c064f064fb2d4d9a3b019702bf0a9c5cb958c6bce4a9c6c8c5bfef4f",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "pending"
+  },
+  {
+    "path": "identities/P005_Arjun_Kumar/03_left_20.jpg",
+    "prompted_condition": "Head turned approximately 20 degrees left",
+    "reference": "references/P005_Arjun_Kumar.png",
+    "source_sha256": "724af1ba42e4e01f1761fb8789511f73cef139c2feefed9d71b7612b5b00363e",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "pending"
+  },
+  {
+    "path": "identities/P005_Arjun_Kumar/04_right_20.jpg",
+    "prompted_condition": "Head turned approximately 20 degrees right",
+    "reference": "references/P005_Arjun_Kumar.png",
+    "source_sha256": "735e2464c831c1c77643de81546c07feffb24e61d5af29ace741925db5405574",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "pending"
+  },
+  {
+    "path": "identities/P005_Arjun_Kumar/05_look_up.jpg",
+    "prompted_condition": "Head tilted slightly upward",
+    "reference": "references/P005_Arjun_Kumar.png",
+    "source_sha256": "d85364a6e00ca78bd2dc71a47b9659f943315a8354679bf896ce572638734a5d",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "pending"
+  },
+  {
+    "path": "identities/P005_Arjun_Kumar/06_look_down.jpg",
+    "prompted_condition": "Head tilted slightly downward",
+    "reference": "references/P005_Arjun_Kumar.png",
+    "source_sha256": "ac9cfd6ace8556fb0c7073e6fe508f650779e85223c466eb7e32f3a204c27740",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "pending"
+  },
+  {
+    "path": "identities/P005_Arjun_Kumar/07_glasses.jpg",
+    "prompted_condition": "Wearing ordinary eyeglasses",
+    "reference": "references/P005_Arjun_Kumar.png",
+    "source_sha256": "5cf06cf3672677d3592ceebf04202264b2878f0a07c7e2cca8ea8bafc7814f74",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "pending"
+  },
+  {
+    "path": "identities/P005_Arjun_Kumar/08_low_light.jpg",
+    "prompted_condition": "Dim indoor lighting, face still visible",
+    "reference": "references/P005_Arjun_Kumar.png",
+    "source_sha256": "c8abe1dae06fec72780417ac2cb514d17c2d9265f0a975f3d83030a591e84da0",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "pending"
+  },
+  {
+    "path": "identities/P005_Arjun_Kumar/09_side_light.jpg",
+    "prompted_condition": "Stronger side lighting",
+    "reference": "references/P005_Arjun_Kumar.png",
+    "source_sha256": "511c7b6e715cb2289971f368c1486afbdb8a73abc1b34a2c1453ad15edbbc1ab",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "pending"
+  },
+  {
+    "path": "identities/P005_Arjun_Kumar/10_background.jpg",
+    "prompted_condition": "Different background and clothing",
+    "reference": "references/P005_Arjun_Kumar.png",
+    "source_sha256": "bf687fa4b561fbeb3c99154f13a982c1e2da9c5da781cbc1bd3014bc42edad00",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "pending"
+  },
+  {
+    "path": "identities/P005_Arjun_Kumar/11_distance.jpg",
+    "prompted_condition": "slightly farther camera; clear face with full head",
+    "reference": "references/P005_Arjun_Kumar.png",
+    "source_sha256": "c3ca4a9cd79c5072d2c2b3b792deb6e2f1008fb693f3eee8d5915cd9e5ec7435",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "pending"
+  }
+]

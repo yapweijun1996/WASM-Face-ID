@@ -1,0 +1,122 @@
+[
+  {
+    "path": "identities/P010_Olivia_Roberts/02_front_smile.jpg",
+    "prompted_condition": "Front-facing, natural smile",
+    "reference": "references/P010_Olivia_Roberts.png",
+    "source_sha256": "62bc32ea220e0cab2b135e43ff572d24128191fb379b977abf1ee0be6c70b615",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "reconstructed from SFace similarity and contact sheet; independent manual review pending",
+    "source_mapping": "reconstructed after image tool output exceeded transport limit"
+  },
+  {
+    "path": "identities/P010_Olivia_Roberts/03_left_20.jpg",
+    "prompted_condition": "Head turned approximately 20 degrees left",
+    "reference": "references/P010_Olivia_Roberts.png",
+    "source_sha256": "eb6d9415f5f40d86c5832efc2ffa3a2acce1e9de5b6e664fc73dc1f63c89f6a8",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "reconstructed from SFace similarity and contact sheet; independent manual review pending",
+    "source_mapping": "reconstructed after image tool output exceeded transport limit"
+  },
+  {
+    "path": "identities/P010_Olivia_Roberts/04_right_20.jpg",
+    "prompted_condition": "Head turned approximately 20 degrees right",
+    "reference": "references/P010_Olivia_Roberts.png",
+    "source_sha256": "b4c45d9a9b483fc3a1fd13ddd11c36875b66d5e0aad2b81a9604c6dfb7ef94e2",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "reconstructed from SFace similarity and contact sheet; independent manual review pending",
+    "source_mapping": "reconstructed after image tool output exceeded transport limit"
+  },
+  {
+    "path": "identities/P010_Olivia_Roberts/05_look_up.jpg",
+    "prompted_condition": "Head tilted slightly upward",
+    "reference": "references/P010_Olivia_Roberts.png",
+    "source_sha256": "e55113894daa653c0655adedececd665e761b8968fef5e6d98786ce6809d1135",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "reconstructed from SFace similarity and contact sheet; independent manual review pending",
+    "source_mapping": "reconstructed after image tool output exceeded transport limit"
+  },
+  {
+    "path": "identities/P010_Olivia_Roberts/06_look_down.jpg",
+    "prompted_condition": "Head tilted slightly downward",
+    "reference": "references/P010_Olivia_Roberts.png",
+    "source_sha256": "35267370b0acb27091775ee123297511f72f1ded7db15be17f18a806d457e364",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "reconstructed from SFace similarity and contact sheet; independent manual review pending",
+    "source_mapping": "reconstructed after image tool output exceeded transport limit"
+  },
+  {
+    "path": "identities/P010_Olivia_Roberts/07_glasses.jpg",
+    "prompted_condition": "Wearing ordinary eyeglasses",
+    "reference": "references/P010_Olivia_Roberts.png",
+    "source_sha256": "f96cbf8b930a5427a920a2aa69f9b33c53e4aac32b0327fc10ee01d6e905d414",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "reconstructed from SFace similarity and contact sheet; independent manual review pending",
+    "source_mapping": "reconstructed after image tool output exceeded transport limit"
+  },
+  {
+    "path": "identities/P010_Olivia_Roberts/08_low_light.jpg",
+    "prompted_condition": "Dim indoor lighting, face still visible",
+    "reference": "references/P010_Olivia_Roberts.png",
+    "source_sha256": "3b843662004e8822fdf53882cdcd254a312a944528e89a0dafdcf7c40ae64e66",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "reconstructed from SFace similarity and contact sheet; independent manual review pending",
+    "source_mapping": "reconstructed after image tool output exceeded transport limit"
+  },
+  {
+    "path": "identities/P010_Olivia_Roberts/09_side_light.jpg",
+    "prompted_condition": "Stronger side lighting",
+    "reference": "references/P010_Olivia_Roberts.png",
+    "source_sha256": "f579823917d0578eef31a3545acbe43cbce84e856f2f8b93d8339e3067e20982",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "reconstructed from SFace similarity and contact sheet; independent manual review pending",
+    "source_mapping": "reconstructed after image tool output exceeded transport limit"
+  },
+  {
+    "path": "identities/P010_Olivia_Roberts/10_background.jpg",
+    "prompted_condition": "Different background and clothing",
+    "reference": "references/P010_Olivia_Roberts.png",
+    "source_sha256": "d97485b1a931d8a46e1e7fcdac5a737e0e6e0ac935b3efc150bd55cd2a42145e",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "reconstructed from SFace similarity and contact sheet; independent manual review pending",
+    "source_mapping": "reconstructed after image tool output exceeded transport limit"
+  },
+  {
+    "path": "identities/P010_Olivia_Roberts/11_distance.jpg",
+    "prompted_condition": "slightly farther camera, clear face with full head",
+    "reference": "references/P010_Olivia_Roberts.png",
+    "source_sha256": "1b16b5dec934bc88d1b2ec613d77b629d4ebefadde5d1b9558a6180c846a1257",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "reconstructed from SFace similarity and contact sheet; independent manual review pending",
+    "source_mapping": "direct model output"
+  }
+]

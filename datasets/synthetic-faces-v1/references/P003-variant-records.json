@@ -1,0 +1,112 @@
+[
+  {
+    "path": "identities/P003_Daniel_Wong/02_front_smile.jpg",
+    "prompted_condition": "Front-facing, natural smile",
+    "reference": "references/P003_Daniel_Wong.png",
+    "source_sha256": "39b4fe31efafcfbb0e0e39bc2e92c1ffae1c8740d1a53bad957d3598516e9748",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "pending"
+  },
+  {
+    "path": "identities/P003_Daniel_Wong/03_left_20.jpg",
+    "prompted_condition": "Head turned approximately 20 degrees left",
+    "reference": "references/P003_Daniel_Wong.png",
+    "source_sha256": "552bffb747480d287d6f0f40842e8b3c857263b9586c3ba3c40f0be1648bebd0",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "pending"
+  },
+  {
+    "path": "identities/P003_Daniel_Wong/04_right_20.jpg",
+    "prompted_condition": "Head turned approximately 20 degrees right",
+    "reference": "references/P003_Daniel_Wong.png",
+    "source_sha256": "0b46d385573db1e5ca2b5ab96af06acac57e01a5ca74444aa694b7d34da92fc3",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "pending"
+  },
+  {
+    "path": "identities/P003_Daniel_Wong/05_look_up.jpg",
+    "prompted_condition": "Head tilted slightly upward",
+    "reference": "references/P003_Daniel_Wong.png",
+    "source_sha256": "9739e396f1faf02123b14a9d8f9cc17467b4861b92fdb1175e73ab4fbc7950b9",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "pending"
+  },
+  {
+    "path": "identities/P003_Daniel_Wong/06_look_down.jpg",
+    "prompted_condition": "Head tilted slightly downward",
+    "reference": "references/P003_Daniel_Wong.png",
+    "source_sha256": "61f8e017c9fdd37b54b07c5cabe2e3bedb84ab904ec600c0da9970e740730b2e",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "pending"
+  },
+  {
+    "path": "identities/P003_Daniel_Wong/07_glasses.jpg",
+    "prompted_condition": "Wearing ordinary eyeglasses",
+    "reference": "references/P003_Daniel_Wong.png",
+    "source_sha256": "a9996af988624a7ebaaf0c0957a5d6e49912036993ce78509180c55022411e2e",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "pending"
+  },
+  {
+    "path": "identities/P003_Daniel_Wong/08_low_light.jpg",
+    "prompted_condition": "Dim indoor lighting, face still visible",
+    "reference": "references/P003_Daniel_Wong.png",
+    "source_sha256": "13d8d0e6f350f9707ec05d1e95bc93fe8ca712e51a14e76dbd5de7c1c08e070a",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "pending"
+  },
+  {
+    "path": "identities/P003_Daniel_Wong/09_side_light.jpg",
+    "prompted_condition": "Stronger side lighting",
+    "reference": "references/P003_Daniel_Wong.png",
+    "source_sha256": "8053785d9080ad92261c8c537bc12ef3c410e21131369738095637c8f06f3ee0",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "pending"
+  },
+  {
+    "path": "identities/P003_Daniel_Wong/10_background.jpg",
+    "prompted_condition": "Different background and clothing",
+    "reference": "references/P003_Daniel_Wong.png",
+    "source_sha256": "24508e7726cebca3be9a6db43dc4084ef989bb7451e157c8705325e1d2a5adfd",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "pending"
+  },
+  {
+    "path": "identities/P003_Daniel_Wong/11_distance.jpg",
+    "prompted_condition": "Camera farther away, face still detectable",
+    "reference": "references/P003_Daniel_Wong.png",
+    "source_sha256": "ecbc6fb4a5d3b035cde034ecfd1e42de7a271e0fedb67d3353347c15122dc97c",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "pending"
+  }
+]

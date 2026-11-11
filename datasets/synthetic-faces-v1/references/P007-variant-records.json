@@ -1,0 +1,112 @@
+[
+  {
+    "path": "identities/P007_Hafiz_Rahman/02_front_smile.jpg",
+    "prompted_condition": "Front-facing, natural smile",
+    "reference": "references/P007_Hafiz_Rahman.png",
+    "source_sha256": "aeb11aaae30a1836114591d8a1d41504ed608b93309ef323fbcb72f32ba0dc57",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "pending"
+  },
+  {
+    "path": "identities/P007_Hafiz_Rahman/03_left_20.jpg",
+    "prompted_condition": "Head turned approximately 20 degrees left",
+    "reference": "references/P007_Hafiz_Rahman.png",
+    "source_sha256": "d15b23ff4f5b0bb297f0f3a951400285af94ec01ee66b91329f7d330cb187eb8",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "pending"
+  },
+  {
+    "path": "identities/P007_Hafiz_Rahman/04_right_20.jpg",
+    "prompted_condition": "Head turned approximately 20 degrees right",
+    "reference": "references/P007_Hafiz_Rahman.png",
+    "source_sha256": "6e73579c67173a17668ded7a437e22ee0cf14ddf0baac654ff4038a96f1f9635",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "pending"
+  },
+  {
+    "path": "identities/P007_Hafiz_Rahman/05_look_up.jpg",
+    "prompted_condition": "Head tilted slightly upward",
+    "reference": "references/P007_Hafiz_Rahman.png",
+    "source_sha256": "84d3008acae4efa53ddd9ce82b6d28eeff0c9a2faff5667c780739fc4a944a71",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "pending"
+  },
+  {
+    "path": "identities/P007_Hafiz_Rahman/06_look_down.jpg",
+    "prompted_condition": "Head tilted slightly downward",
+    "reference": "references/P007_Hafiz_Rahman.png",
+    "source_sha256": "251a6b1a8cd5f3525ffc0fdb91d4e991ede9ffe38e191575232df24b4c00d8e5",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "pending"
+  },
+  {
+    "path": "identities/P007_Hafiz_Rahman/07_glasses.jpg",
+    "prompted_condition": "Wearing ordinary eyeglasses",
+    "reference": "references/P007_Hafiz_Rahman.png",
+    "source_sha256": "7489dd363b15e174fa34a2d343582e44297f399926d367aaeb458156f9fa845f",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "pending"
+  },
+  {
+    "path": "identities/P007_Hafiz_Rahman/08_low_light.jpg",
+    "prompted_condition": "Dim indoor lighting, face still visible",
+    "reference": "references/P007_Hafiz_Rahman.png",
+    "source_sha256": "890cf76cd8a11fb4228baf46f5cca00809b3b68d1cc52d38d797567ac71adc3b",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "pending"
+  },
+  {
+    "path": "identities/P007_Hafiz_Rahman/09_side_light.jpg",
+    "prompted_condition": "Stronger side lighting",
+    "reference": "references/P007_Hafiz_Rahman.png",
+    "source_sha256": "f5e4b63fd16c4c99a9b46c64b66baf2a82aab922e92907724ec3d1cad0d6bc54",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "pending"
+  },
+  {
+    "path": "identities/P007_Hafiz_Rahman/10_background.jpg",
+    "prompted_condition": "Different background and clothing",
+    "reference": "references/P007_Hafiz_Rahman.png",
+    "source_sha256": "0a588ef376d698ea90b2aac276bbb4f3cac72618b655d8fb0e05f01b935a82d2",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "pending"
+  },
+  {
+    "path": "identities/P007_Hafiz_Rahman/11_distance.jpg",
+    "prompted_condition": "slightly farther camera; clear face with full head",
+    "reference": "references/P007_Hafiz_Rahman.png",
+    "source_sha256": "0cb078416beaedbdd71fdfe0efbd6b2a49faa64aa04402ffaf68cf47c40382ba",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "pending"
+  }
+]

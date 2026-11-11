@@ -1,31 +1,80 @@
 {
   "status": "HOLD",
   "expected_images": 110,
-  "actual_jpeg_count": 20,
-  "valid_manifest_entries": 20,
-  "face_detection_checked": 0,
-  "embeddings_checked": 0,
-  "within_identity_cosine": null,
-  "between_identity_cosine": null,
-  "highest_between_identity_pairs": [],
+  "actual_jpeg_count": 110,
+  "valid_manifest_entries": 110,
+  "face_detection_checked": 110,
+  "embeddings_checked": 110,
+  "within_identity_cosine": {
+    "count": 550,
+    "min": 0.6695114771690716,
+    "median": 0.8376100205109993,
+    "max": 0.9725148482559067
+  },
+  "between_identity_cosine": {
+    "count": 5445,
+    "min": 0.06401153593610813,
+    "median": 0.33167082732921066,
+    "max": 0.6955678410857954
+  },
+  "highest_between_identity_pairs": [
+    [
+      0.6955678410857954,
+      "identities/P004_Priya_Nair/08_low_light.jpg",
+      "identities/P008_Sophia_Chen/10_background.jpg"
+    ],
+    [
+      0.6853710207567922,
+      "identities/P004_Priya_Nair/11_distance.jpg",
+      "identities/P008_Sophia_Chen/10_background.jpg"
+    ],
+    [
+      0.6786184125929858,
+      "identities/P004_Priya_Nair/08_low_light.jpg",
+      "identities/P008_Sophia_Chen/06_look_down.jpg"
+    ],
+    [
+      0.6784226757948687,
+      "identities/P004_Priya_Nair/11_distance.jpg",
+      "identities/P008_Sophia_Chen/03_left_20.jpg"
+    ],
+    [
+      0.6774688169296776,
+      "identities/P004_Priya_Nair/08_low_light.jpg",
+      "identities/P008_Sophia_Chen/05_look_up.jpg"
+    ],
+    [
+      0.6732495744842852,
+      "identities/P004_Priya_Nair/04_right_20.jpg",
+      "identities/P008_Sophia_Chen/10_background.jpg"
+    ],
+    [
+      0.6732122186561688,
+      "identities/P004_Priya_Nair/08_low_light.jpg",
+      "identities/P008_Sophia_Chen/03_left_20.jpg"
+    ],
+    [
+      0.6714322050654937,
+      "identities/P004_Priya_Nair/01_front_neutral.jpg",
+      "identities/P008_Sophia_Chen/10_background.jpg"
+    ],
+    [
+      0.6711965786737327,
+      "identities/P004_Priya_Nair/10_background.jpg",
+      "identities/P008_Sophia_Chen/10_background.jpg"
+    ],
+    [
+      0.6684913624906282,
+      "identities/P004_Priya_Nair/04_right_20.jpg",
+      "identities/P008_Sophia_Chen/05_look_up.jpg"
+    ]
+  ],
   "collision_interpretation": "Review high-similarity pairs after independently calibrating a threshold; top pairs alone are not confirmed collisions.",
   "manual_review": "NOT COMPLETED",
   "license_review": "NOT COMPLETED",
-  "adapter": null,
-  "errors": [
-    "P002: missing ['02_front_smile.jpg', '03_left_20.jpg', '04_right_20.jpg', '05_look_up.jpg', '06_look_down.jpg', '07_glasses.jpg', '08_low_light.jpg', '09_side_light.jpg', '10_background.jpg', '11_distance.jpg'], unexpected []",
-    "P003: missing ['02_front_smile.jpg', '03_left_20.jpg', '04_right_20.jpg', '05_look_up.jpg', '06_look_down.jpg', '07_glasses.jpg', '08_low_light.jpg', '09_side_light.jpg', '10_background.jpg', '11_distance.jpg'], unexpected []",
-    "P004: missing ['02_front_smile.jpg', '03_left_20.jpg', '04_right_20.jpg', '05_look_up.jpg', '06_look_down.jpg', '07_glasses.jpg', '08_low_light.jpg', '09_side_light.jpg', '10_background.jpg', '11_distance.jpg'], unexpected []",
-    "P005: missing ['02_front_smile.jpg', '03_left_20.jpg', '04_right_20.jpg', '05_look_up.jpg', '06_look_down.jpg', '07_glasses.jpg', '08_low_light.jpg', '09_side_light.jpg', '10_background.jpg', '11_distance.jpg'], unexpected []",
-    "P006: missing ['02_front_smile.jpg', '03_left_20.jpg', '04_right_20.jpg', '05_look_up.jpg', '06_look_down.jpg', '07_glasses.jpg', '08_low_light.jpg', '09_side_light.jpg', '10_background.jpg', '11_distance.jpg'], unexpected []",
-    "P007: missing ['02_front_smile.jpg', '03_left_20.jpg', '04_right_20.jpg', '05_look_up.jpg', '06_look_down.jpg', '07_glasses.jpg', '08_low_light.jpg', '09_side_light.jpg', '10_background.jpg', '11_distance.jpg'], unexpected []",
-    "P008: missing ['02_front_smile.jpg', '03_left_20.jpg', '04_right_20.jpg', '05_look_up.jpg', '06_look_down.jpg', '07_glasses.jpg', '08_low_light.jpg', '09_side_light.jpg', '10_background.jpg', '11_distance.jpg'], unexpected []",
-    "P009: missing ['02_front_smile.jpg', '03_left_20.jpg', '04_right_20.jpg', '05_look_up.jpg', '06_look_down.jpg', '07_glasses.jpg', '08_low_light.jpg', '09_side_light.jpg', '10_background.jpg', '11_distance.jpg'], unexpected []",
-    "P010: missing ['02_front_smile.jpg', '03_left_20.jpg', '04_right_20.jpg', '05_look_up.jpg', '06_look_down.jpg', '07_glasses.jpg', '08_low_light.jpg', '09_side_light.jpg', '10_background.jpg', '11_distance.jpg'], unexpected []",
-    "Expected 110 JPEGs; found 20, readable expected files 20"
-  ],
+  "adapter": "datasets\\synthetic-faces-v1\\opencv_adapter.py",
+  "errors": [],
   "missing_checks": [
-    "actual face detection and recognition embedding validation",
     "manual identity consistency review",
     "applicable provider terms and redistribution approval"
   ]

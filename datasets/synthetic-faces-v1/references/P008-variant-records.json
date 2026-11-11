@@ -1,0 +1,122 @@
+[
+  {
+    "path": "identities/P008_Sophia_Chen/02_front_smile.jpg",
+    "prompted_condition": "Front-facing, natural smile",
+    "reference": "references/P008_Sophia_Chen.png",
+    "source_sha256": "6c405e04082f5ae3b9991812f6db1f11722ba1339ff7495f52a705391e148be1",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "reconstructed from SFace similarity and contact sheet; independent manual review pending",
+    "source_mapping": "reconstructed after image tool output exceeded transport limit"
+  },
+  {
+    "path": "identities/P008_Sophia_Chen/03_left_20.jpg",
+    "prompted_condition": "Head turned approximately 20 degrees left",
+    "reference": "references/P008_Sophia_Chen.png",
+    "source_sha256": "c771df7ba01661252d7934544e4614f97698e1d7e9c1f87a08f254eaf8c88aee",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "reconstructed from SFace similarity and contact sheet; independent manual review pending",
+    "source_mapping": "reconstructed after image tool output exceeded transport limit"
+  },
+  {
+    "path": "identities/P008_Sophia_Chen/04_right_20.jpg",
+    "prompted_condition": "Head turned approximately 20 degrees right",
+    "reference": "references/P008_Sophia_Chen.png",
+    "source_sha256": "a2176aeb8b76bf630bd5c91f5cdd94cd43aa4602721cbb27045e8d18c402b203",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "reconstructed from SFace similarity and contact sheet; independent manual review pending",
+    "source_mapping": "reconstructed after image tool output exceeded transport limit"
+  },
+  {
+    "path": "identities/P008_Sophia_Chen/05_look_up.jpg",
+    "prompted_condition": "Head tilted slightly upward",
+    "reference": "references/P008_Sophia_Chen.png",
+    "source_sha256": "d7993f72aaad4982364745688bad2191a6b78dae8dc3ad6b0c9f777f4e71f5ef",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "reconstructed from SFace similarity and contact sheet; independent manual review pending",
+    "source_mapping": "reconstructed after image tool output exceeded transport limit"
+  },
+  {
+    "path": "identities/P008_Sophia_Chen/06_look_down.jpg",
+    "prompted_condition": "Head tilted slightly downward",
+    "reference": "references/P008_Sophia_Chen.png",
+    "source_sha256": "f3c12c900e9662803b26f17662d907222484cc901dcdf6d42524c69944baf3dc",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "reconstructed from SFace similarity and contact sheet; independent manual review pending",
+    "source_mapping": "reconstructed after image tool output exceeded transport limit"
+  },
+  {
+    "path": "identities/P008_Sophia_Chen/07_glasses.jpg",
+    "prompted_condition": "Wearing ordinary eyeglasses",
+    "reference": "references/P008_Sophia_Chen.png",
+    "source_sha256": "71e0d94fc06f6f40db5dfccb07ca0405b7faa3af69b8050db0873d95d1047f4a",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "reconstructed from SFace similarity and contact sheet; independent manual review pending",
+    "source_mapping": "reconstructed after image tool output exceeded transport limit"
+  },
+  {
+    "path": "identities/P008_Sophia_Chen/08_low_light.jpg",
+    "prompted_condition": "Dim indoor lighting, face still visible",
+    "reference": "references/P008_Sophia_Chen.png",
+    "source_sha256": "bfca4a9e508e8ab8e629a06786fc32d8b880fe4a5c5435b2372a660b437752dd",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "reconstructed from SFace similarity and contact sheet; independent manual review pending",
+    "source_mapping": "reconstructed after image tool output exceeded transport limit"
+  },
+  {
+    "path": "identities/P008_Sophia_Chen/09_side_light.jpg",
+    "prompted_condition": "Stronger side lighting",
+    "reference": "references/P008_Sophia_Chen.png",
+    "source_sha256": "619928e630417f7ac665ddbf24d1a7c434faeb1d9e1107c207bc3056ba6e0810",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "reconstructed from SFace similarity and contact sheet; independent manual review pending",
+    "source_mapping": "reconstructed after image tool output exceeded transport limit"
+  },
+  {
+    "path": "identities/P008_Sophia_Chen/10_background.jpg",
+    "prompted_condition": "Different background and clothing",
+    "reference": "references/P008_Sophia_Chen.png",
+    "source_sha256": "5198c027c4a709d149e4570cd837777375342d2d4f4a235831207aa2e048121b",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "reconstructed from SFace similarity and contact sheet; independent manual review pending",
+    "source_mapping": "reconstructed after image tool output exceeded transport limit"
+  },
+  {
+    "path": "identities/P008_Sophia_Chen/11_distance.jpg",
+    "prompted_condition": "slightly farther camera, clear face with full head",
+    "reference": "references/P008_Sophia_Chen.png",
+    "source_sha256": "a3bc8f788239f0c328acc974701c1b43cb03f41411777c0d9cc8b0aaa829a5fb",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "reconstructed from SFace similarity and contact sheet; independent manual review pending",
+    "source_mapping": "direct model output"
+  }
+]

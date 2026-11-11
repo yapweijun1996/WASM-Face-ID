@@ -1,0 +1,112 @@
+[
+  {
+    "path": "identities/P004_Priya_Nair/02_front_smile.jpg",
+    "prompted_condition": "Front-facing, natural smile",
+    "reference": "references/P004_Priya_Nair.png",
+    "source_sha256": "007f3e4bfbf02dc3e7a1cc6032509ad07e9b04d4f679bab971ca932144d61864",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "pending"
+  },
+  {
+    "path": "identities/P004_Priya_Nair/03_left_20.jpg",
+    "prompted_condition": "Head turned approximately 20 degrees left",
+    "reference": "references/P004_Priya_Nair.png",
+    "source_sha256": "48b6977a07e61bfd96739de05b2cb0469c900fb58b7499dd3d2c16f60e15384d",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "pending"
+  },
+  {
+    "path": "identities/P004_Priya_Nair/04_right_20.jpg",
+    "prompted_condition": "Head turned approximately 20 degrees right",
+    "reference": "references/P004_Priya_Nair.png",
+    "source_sha256": "831b17dd3fcdcd7f4a26f6b6aec455d99e487bc6bfabe75dba84ef403585f6b6",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "pending"
+  },
+  {
+    "path": "identities/P004_Priya_Nair/05_look_up.jpg",
+    "prompted_condition": "Head tilted slightly upward",
+    "reference": "references/P004_Priya_Nair.png",
+    "source_sha256": "ff26f0b8782d359739dbf44ff9855f770c3af2ab4c9c2590eb5cb96c512cb88f",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "pending"
+  },
+  {
+    "path": "identities/P004_Priya_Nair/06_look_down.jpg",
+    "prompted_condition": "Head tilted slightly downward",
+    "reference": "references/P004_Priya_Nair.png",
+    "source_sha256": "d5ce39978cc0d5e0343c55f17aa5efa041abdbe90a4272ac158c546b456080c8",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "pending"
+  },
+  {
+    "path": "identities/P004_Priya_Nair/07_glasses.jpg",
+    "prompted_condition": "Wearing ordinary eyeglasses",
+    "reference": "references/P004_Priya_Nair.png",
+    "source_sha256": "7eec16b67956cf34d4223f5eb5a669b2b6ee09d80a8c294ed70153767bc340a2",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "pending"
+  },
+  {
+    "path": "identities/P004_Priya_Nair/08_low_light.jpg",
+    "prompted_condition": "Dim indoor lighting, face still visible",
+    "reference": "references/P004_Priya_Nair.png",
+    "source_sha256": "961b3a60c194ecd985ec890cb3612d4836c0897da5f9f77de42dba2366bd1640",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "pending"
+  },
+  {
+    "path": "identities/P004_Priya_Nair/09_side_light.jpg",
+    "prompted_condition": "Stronger side lighting",
+    "reference": "references/P004_Priya_Nair.png",
+    "source_sha256": "85f7e14fb322c54fe88170457efa8f7c6abd7f86f6a6354f5537e5bfaa56250f",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "pending"
+  },
+  {
+    "path": "identities/P004_Priya_Nair/10_background.jpg",
+    "prompted_condition": "Different background and clothing",
+    "reference": "references/P004_Priya_Nair.png",
+    "source_sha256": "0d42a9b7d2388b41cdd78cda570311e840b9f39e0d5e6342e883cd1aef2a906e",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "pending"
+  },
+  {
+    "path": "identities/P004_Priya_Nair/11_distance.jpg",
+    "prompted_condition": "moderate distance, face at least 30% width",
+    "reference": "references/P004_Priya_Nair.png",
+    "source_sha256": "fdb8bde3f4327b5e9bd56ab2251e8d2600cc3d2f5c8c1840892eb2a653c59323",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "pending"
+  }
+]

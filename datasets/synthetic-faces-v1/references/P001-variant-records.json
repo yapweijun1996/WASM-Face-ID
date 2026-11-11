@@ -12,14 +12,14 @@
   },
   {
     "path": "identities/P001_Adrian_Tan/03_left_20.jpg",
-    "prompted_condition": "Head turned approximately 20 degrees left",
+    "prompted_condition": "head toward viewer right, nose pointing right edge",
     "reference": "references/P001_Adrian_Tan.png",
-    "source_sha256": "374fa7c6ff5fc115018fadcdc9a09cee0b3fbed83c229d0007dcb57f97b88093",
+    "source_sha256": "9e59f5246b34c9934b0a035bbe77343bbb9a7bb6c419af77b80fc21c4085431c",
     "generation_provider": "OpenAI built-in image generation",
     "generation_model": null,
     "generation_seed": null,
     "generation_timestamp": null,
-    "condition_and_identity_validation": "pending"
+    "condition_and_identity_validation": "corrected direction visually; identity and exact angle pending"
   },
   {
     "path": "identities/P001_Adrian_Tan/04_right_20.jpg",

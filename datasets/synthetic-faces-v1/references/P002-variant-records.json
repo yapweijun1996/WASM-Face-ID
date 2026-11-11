@@ -1,0 +1,112 @@
+[
+  {
+    "path": "identities/P002_Melissa_Lim/02_front_smile.jpg",
+    "prompted_condition": "Front-facing, natural smile",
+    "reference": "references/P002_Melissa_Lim.png",
+    "source_sha256": "f8b12a765f8597f229355bc2eb3659f392045f085273cd30800ade1b15cfb8fa",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "pending"
+  },
+  {
+    "path": "identities/P002_Melissa_Lim/03_left_20.jpg",
+    "prompted_condition": "Head turned approximately 20 degrees left",
+    "reference": "references/P002_Melissa_Lim.png",
+    "source_sha256": "ef8283ef325e91fbc412003af89287e40bb4e36386ea49e81280e33c599bf012",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "pending"
+  },
+  {
+    "path": "identities/P002_Melissa_Lim/04_right_20.jpg",
+    "prompted_condition": "Head turned approximately 20 degrees right",
+    "reference": "references/P002_Melissa_Lim.png",
+    "source_sha256": "5f8733fd430acd05ab41bba559f8c45a3de89cddb58b47f40da6711d36f33055",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "pending"
+  },
+  {
+    "path": "identities/P002_Melissa_Lim/05_look_up.jpg",
+    "prompted_condition": "Head tilted slightly upward",
+    "reference": "references/P002_Melissa_Lim.png",
+    "source_sha256": "346f5fc5de3b607d4bacf5c2dd14d1be98f2536dfd924cbf81c014e48db6d565",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "pending"
+  },
+  {
+    "path": "identities/P002_Melissa_Lim/06_look_down.jpg",
+    "prompted_condition": "Head tilted slightly downward",
+    "reference": "references/P002_Melissa_Lim.png",
+    "source_sha256": "379727a1ab8b2e8a511ff96b19ba795c296e8ac0332c09e7de243fc3da86e345",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "pending"
+  },
+  {
+    "path": "identities/P002_Melissa_Lim/07_glasses.jpg",
+    "prompted_condition": "Wearing ordinary eyeglasses",
+    "reference": "references/P002_Melissa_Lim.png",
+    "source_sha256": "1aa130e46b2292ce67a1923860dcc9e88c0d4ec98b8fcbd87f50b9c7968af584",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "pending"
+  },
+  {
+    "path": "identities/P002_Melissa_Lim/08_low_light.jpg",
+    "prompted_condition": "Dim indoor lighting, face still visible",
+    "reference": "references/P002_Melissa_Lim.png",
+    "source_sha256": "d4d0b9fcfaad42bcce8935f54f0978842c9696e078d761b860a1f3cc457e69c4",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "pending"
+  },
+  {
+    "path": "identities/P002_Melissa_Lim/09_side_light.jpg",
+    "prompted_condition": "Stronger side lighting",
+    "reference": "references/P002_Melissa_Lim.png",
+    "source_sha256": "4546f836d8fdcefe901a0e77d2c3da0fbdf58534a8945fc967f0dfe0a51e5f0a",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "pending"
+  },
+  {
+    "path": "identities/P002_Melissa_Lim/10_background.jpg",
+    "prompted_condition": "Different background and clothing",
+    "reference": "references/P002_Melissa_Lim.png",
+    "source_sha256": "51f6529d47aef57d578e0f54d124f8ed57d9ff774fb869caa5efc1fa97553179",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "pending"
+  },
+  {
+    "path": "identities/P002_Melissa_Lim/11_distance.jpg",
+    "prompted_condition": "moderate distance, face about one third of image width",
+    "reference": "references/P002_Melissa_Lim.png",
+    "source_sha256": "bf5c3105729901badadb3068c5b50962fd992ab303cdfab4e4047791011b8f66",
+    "generation_provider": "OpenAI built-in image generation",
+    "generation_model": null,
+    "generation_seed": null,
+    "generation_timestamp": null,
+    "condition_and_identity_validation": "pending"
+  }
+]
