@@ -1,0 +1,8 @@
+{
+  "source_sha256": "2393e10db7812797bae9300adca4e683c5d9339c566b5c54169fc93cef69d7c1",
+  "reference": "images/P019.jpg",
+  "condition": "Wearing ordinary eyeglasses",
+  "provider": "OpenAI built-in image generation",
+  "model": null,
+  "seed": null
+}

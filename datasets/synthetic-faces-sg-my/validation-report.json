@@ -1,0 +1,127 @@
+{
+  "status": "HOLD",
+  "identity_count": 10,
+  "images_checked": 110,
+  "embeddings_checked": 110,
+  "errors": [],
+  "within_identity_cosine": {
+    "count": 550,
+    "min": 0.6350278265725642,
+    "median": 0.8369126697610668,
+    "max": 0.9850071424355826
+  },
+  "between_identity_cosine": {
+    "count": 5445,
+    "min": 0.011037155799174364,
+    "median": 0.30223415610773763,
+    "max": 0.5603826412605054
+  },
+  "lowest_within_identity_pairs": [
+    [
+      0.6350278265725642,
+      "variants/P015/03_left_20.jpg",
+      "variants/P015/07_glasses.jpg"
+    ],
+    [
+      0.6659318509692256,
+      "variants/P017/04_right_20.jpg",
+      "variants/P017/09_side_light.jpg"
+    ],
+    [
+      0.6744927498514063,
+      "variants/P015/05_look_up.jpg",
+      "variants/P015/07_glasses.jpg"
+    ],
+    [
+      0.6748190383765662,
+      "variants/P015/07_glasses.jpg",
+      "variants/P015/09_side_light.jpg"
+    ],
+    [
+      0.6749708551879305,
+      "variants/P012/07_glasses.jpg",
+      "variants/P012/09_side_light.jpg"
+    ],
+    [
+      0.678371230065578,
+      "variants/P015/03_left_20.jpg",
+      "variants/P015/09_side_light.jpg"
+    ],
+    [
+      0.6803904223190824,
+      "variants/P017/04_right_20.jpg",
+      "variants/P017/07_glasses.jpg"
+    ],
+    [
+      0.6828083966805526,
+      "variants/P017/07_glasses.jpg",
+      "variants/P017/09_side_light.jpg"
+    ],
+    [
+      0.6860671359461566,
+      "variants/P012/04_right_20.jpg",
+      "variants/P012/09_side_light.jpg"
+    ],
+    [
+      0.6874099820675488,
+      "variants/P017/03_left_20.jpg",
+      "variants/P017/07_glasses.jpg"
+    ]
+  ],
+  "highest_between_identity_pairs": [
+    [
+      0.5603826412605054,
+      "variants/P011/05_look_up.jpg",
+      "variants/P015/05_look_up.jpg"
+    ],
+    [
+      0.5570268072292607,
+      "variants/P013/03_left_20.jpg",
+      "variants/P020/04_right_20.jpg"
+    ],
+    [
+      0.5462880657455657,
+      "variants/P011/02_front_smile.jpg",
+      "variants/P015/03_left_20.jpg"
+    ],
+    [
+      0.5458487626465985,
+      "variants/P013/05_look_up.jpg",
+      "variants/P020/02_front_smile.jpg"
+    ],
+    [
+      0.5393484318699473,
+      "variants/P013/05_look_up.jpg",
+      "variants/P020/11_distance.jpg"
+    ],
+    [
+      0.5382537797995719,
+      "variants/P013/11_distance.jpg",
+      "variants/P020/04_right_20.jpg"
+    ],
+    [
+      0.5296758989143072,
+      "variants/P011/06_look_down.jpg",
+      "variants/P015/10_background.jpg"
+    ],
+    [
+      0.5295199577470073,
+      "variants/P013/02_front_smile.jpg",
+      "variants/P020/02_front_smile.jpg"
+    ],
+    [
+      0.5280946904977146,
+      "variants/P014/11_distance.jpg",
+      "variants/P016/06_look_down.jpg"
+    ],
+    [
+      0.5267692663597922,
+      "variants/P013/07_glasses.jpg",
+      "variants/P020/07_glasses.jpg"
+    ]
+  ],
+  "similarity_ranges_overlap": false,
+  "manual_review": "PENDING",
+  "rights_review": "PENDING",
+  "note": "No universal matching threshold; embeddings and synthetic edits do not prove identity or real-world performance."
+}

@@ -1,0 +1,8 @@
+{
+  "source_sha256": "c2e73f4c4e0d1c3eaf94fb51fdf301181630c3c102e3ae2bd2bf92e7c5d34bdd",
+  "reference": "images/P017.jpg",
+  "condition": "Head slightly tilted upward",
+  "provider": "OpenAI built-in image generation",
+  "model": null,
+  "seed": null
+}

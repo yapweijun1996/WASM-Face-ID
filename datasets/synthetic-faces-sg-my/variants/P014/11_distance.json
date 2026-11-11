@@ -1,0 +1,8 @@
+{
+  "source_sha256": "b048bcfe0228a8f582f093a3b841abd0bf71cebf13cfe4295eba0099303e15cf",
+  "reference": "images/P014.jpg",
+  "condition": "Camera slightly farther away, chest-up, face at least 30 percent of frame width",
+  "provider": "OpenAI built-in image generation",
+  "model": null,
+  "seed": null
+}

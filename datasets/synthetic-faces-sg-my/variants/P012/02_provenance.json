@@ -1,0 +1,9 @@
+{
+  "reference": "../../images/P012.jpg",
+  "condition": "front-facing natural smile",
+  "source_sha256": "fdcdb2800823c86699e7908325999db49ec2817bf488bccb6c83dcefae825747",
+  "provider": "OpenAI built-in image generation",
+  "model": null,
+  "seed": null,
+  "source_mapping": "Recovery by file time and face similarity after save adapter rejection; visual review pending"
+}

@@ -1,0 +1,83 @@
+[
+  {
+    "path": "variants/P012/03_left_20.jpg",
+    "condition": "Head turned approximately 20 degrees left",
+    "reference": "images/P012.jpg",
+    "source_sha256": "fccee6e9c54494dfc335caa299a8930cf705938ec6543f7b48e0aa7a8b1185d8",
+    "provider": "OpenAI built-in image generation",
+    "model": null,
+    "seed": null
+  },
+  {
+    "path": "variants/P012/04_right_20.jpg",
+    "condition": "Head turned approximately 20 degrees right",
+    "reference": "images/P012.jpg",
+    "source_sha256": "7271c33b1e2b9b768080e279004a07b72369cd4df750f453d80862d31a0bb505",
+    "provider": "OpenAI built-in image generation",
+    "model": null,
+    "seed": null
+  },
+  {
+    "path": "variants/P012/05_look_up.jpg",
+    "condition": "Head tilted slightly upward",
+    "reference": "images/P012.jpg",
+    "source_sha256": "53ef49cd1e40ed3a3c2b325ec152b344cf724ed662713a66f093fde2ecccfab7",
+    "provider": "OpenAI built-in image generation",
+    "model": null,
+    "seed": null
+  },
+  {
+    "path": "variants/P012/06_look_down.jpg",
+    "condition": "Head tilted slightly downward",
+    "reference": "images/P012.jpg",
+    "source_sha256": "5b2ccc0d1fca0c89c028884ac828b253a68feddb8caca711a8c9d8ffc3970333",
+    "provider": "OpenAI built-in image generation",
+    "model": null,
+    "seed": null
+  },
+  {
+    "path": "variants/P012/07_glasses.jpg",
+    "condition": "Wearing ordinary eyeglasses",
+    "reference": "images/P012.jpg",
+    "source_sha256": "d119e72703a17e05a758e86def3fa505b24e7e31210dceca7391835d70f2079a",
+    "provider": "OpenAI built-in image generation",
+    "model": null,
+    "seed": null
+  },
+  {
+    "path": "variants/P012/08_low_light.jpg",
+    "condition": "Dim indoor lighting, face still visible",
+    "reference": "images/P012.jpg",
+    "source_sha256": "2e948e1eb933bf3f3dd864214dcbc765ae369736bc02be4efdc50804ec10fe32",
+    "provider": "OpenAI built-in image generation",
+    "model": null,
+    "seed": null
+  },
+  {
+    "path": "variants/P012/09_side_light.jpg",
+    "condition": "Stronger side lighting",
+    "reference": "images/P012.jpg",
+    "source_sha256": "96a2aa6e1ac5e77bc288811c6b48f33518e172d110538a0037f65fffa613ac61",
+    "provider": "OpenAI built-in image generation",
+    "model": null,
+    "seed": null
+  },
+  {
+    "path": "variants/P012/10_background.jpg",
+    "condition": "Different background and clothing",
+    "reference": "images/P012.jpg",
+    "source_sha256": "758694fd392284e564db7204840aaa2906e44ecfed669f3f2b2f9f976902e063",
+    "provider": "OpenAI built-in image generation",
+    "model": null,
+    "seed": null
+  },
+  {
+    "path": "variants/P012/11_distance.jpg",
+    "condition": "Camera farther away, face still detectable",
+    "reference": "images/P012.jpg",
+    "source_sha256": "c78fc78bdbbf04576c3ce9ed6709aac23a9c0a0ee9dfa2bd080ea9dcd5997aba",
+    "provider": "OpenAI built-in image generation",
+    "model": null,
+    "seed": null
+  }
+]

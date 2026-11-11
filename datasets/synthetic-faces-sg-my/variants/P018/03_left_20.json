@@ -1,0 +1,8 @@
+{
+  "source_sha256": "0372518ce9025e81c5735f4ca427277cdff8553cd3ddab53f28ad0adf0272743",
+  "reference": "images/P018.jpg",
+  "condition": "Head turned 20 degrees towards viewer right, nose pointing to right edge",
+  "provider": "OpenAI built-in image generation",
+  "model": null,
+  "seed": null
+}

@@ -1,0 +1,8 @@
+{
+  "source_sha256": "8a938ccdb34d7cbea8e38d9fc264cf37fe4064f8b134f4ad1c55c565212e52af",
+  "reference": "images/P019.jpg",
+  "condition": "Different background and clothing",
+  "provider": "OpenAI built-in image generation",
+  "model": null,
+  "seed": null
+}

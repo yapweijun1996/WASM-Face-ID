@@ -1,0 +1,8 @@
+{
+  "source_sha256": "0dee53cad0db66021b5aaba6d079cfc02580a991e6f138a0db24b342fd8c7795",
+  "reference": "images/P020.jpg",
+  "condition": "Dim indoor lighting, face clearly visible",
+  "provider": "OpenAI built-in image generation",
+  "model": null,
+  "seed": null
+}

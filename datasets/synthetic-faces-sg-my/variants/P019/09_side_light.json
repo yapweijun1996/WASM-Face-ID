@@ -1,0 +1,8 @@
+{
+  "source_sha256": "fdaa6c80a4cf12f1654aa58ff864cbc0d95be071ee28aaba7f24f0b6315d9043",
+  "reference": "images/P019.jpg",
+  "condition": "Strong side lighting",
+  "provider": "OpenAI built-in image generation",
+  "model": null,
+  "seed": null
+}

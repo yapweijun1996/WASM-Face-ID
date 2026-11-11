@@ -1,0 +1,8 @@
+{
+  "source_sha256": "f81cab123eff8618b457b069371bd8691279e69318b7f4094a6bb5b8d0a733db",
+  "reference": "images/P013.jpg",
+  "condition": "Recovered from generated outputs by timestamp and visual condition; identity review pending",
+  "provider": "OpenAI built-in image generation",
+  "model": null,
+  "seed": null
+}
